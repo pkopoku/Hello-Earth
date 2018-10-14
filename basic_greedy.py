@@ -1,7 +1,7 @@
 #A basic greedy alg
 
 A={1,2,3,4,5}
-T=6
+T=8
 time_used=0
 num_of_things_done=[]
 
@@ -14,3 +14,4 @@ time_used+=i
 
 print(num_of_things_done)
 print(time_used)
+print("Completed")
