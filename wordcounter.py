@@ -1,7 +1,7 @@
 #We received an email from earth, we want to count the number of words in it
 #Yes, we're weird like that
 
-email = open("textfile goes here.txt","r+")
+email = open("email.txt","r+")
 
 #Create a dictionary to store every word
 wordcount = {}
